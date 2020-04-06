@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_City_city</name>
+   <name>input_Country_country</name>
    <tag></tag>
-   <elementGuidId>e2e3e44e-7575-4c26-9678-e0b129725912</elementGuidId>
+   <elementGuidId>e3b865f1-c9ba-4f64-bcd2-867d79ab9b90</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='city']</value>
+         <value>//input[@id='country']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -38,34 +38,34 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>city</value>
+      <value>country</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;city&quot;)</value>
+      <value>id(&quot;country&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='city']</value>
+      <value>//input[@id='country']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='orderModal']/div/div/div[2]/form/div[3]/input</value>
+      <value>//div[@id='orderModal']/div/div/div[2]/form/div[2]/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
+      <value>//div[3]/div/div/div[2]/form/div[2]/input</value>
    </webElementXpaths>
 </WebElementEntity>

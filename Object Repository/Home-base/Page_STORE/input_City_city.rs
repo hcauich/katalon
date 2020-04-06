@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Credit card_card</name>
+   <name>input_City_city</name>
    <tag></tag>
-   <elementGuidId>d93698fb-4ff7-4db1-a0a9-aae81d8a4a92</elementGuidId>
+   <elementGuidId>e93a6e91-f4f2-463d-b4ec-9f2f668197ad</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='card']</value>
+         <value>//input[@id='city']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -38,34 +38,34 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>card</value>
+      <value>city</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;card&quot;)</value>
+      <value>id(&quot;city&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='card']</value>
+      <value>//input[@id='city']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='orderModal']/div/div/div[2]/form/div[4]/input</value>
+      <value>//div[@id='orderModal']/div/div/div[2]/form/div[3]/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/input</value>
+      <value>//div[3]/input</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -16,9 +16,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+not_run: WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.demoblaze.com/index.html')
+not_run: WebUI.navigateToUrl('https://www.demoblaze.com/index.html')
 
 WebUI.click(findTestObject('Object Repository/Contact/Page_STORE/a_Contact'))
 
